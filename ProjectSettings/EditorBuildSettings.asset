@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Menu.unity
+    guid: e6126595de4e5834fa93212961ac4b28
+  - enabled: 1
+    path: Assets/Scene/Enzyme.unity
+    guid: ebdd7f64349dade448c31e112688fb9d
+  - enabled: 1
+    path: Assets/Scene/Shape.unity
+    guid: f060b5b03467c114ea4f9860b9fdfd98
+  - enabled: 1
+    path: Assets/Scene/Error_problem.unity
+    guid: 3f00b063adaf43d45ab1c184f4cd9e99
+  - enabled: 1
+    path: Assets/Scene/Error.unity
+    guid: f0a77c7d793ae944c8945fc61638e75f
+  - enabled: 1
+    path: Assets/Scene/DrawCircle.unity
+    guid: d2e56fde83a05554195e3898d80cc48c
+  - enabled: 1
+    path: Assets/Scene/Copy_problem.unity
+    guid: 3fdc4130dfbad8446b378cd122033aed
+  - enabled: 1
+    path: Assets/Scene/Copy.unity
+    guid: 5e76c665aefb26743acbd48088840bf4
+  - enabled: 1
+    path: Assets/Scene/3D_DNA.unity
+    guid: 7b4597572a3bab84297fb8beed9572ec
+  - enabled: 1
+    path: Assets/Scene/Peidui.unity
+    guid: b75b7e9720bd8fc488625cc19854dae5
+  - enabled: 1
+    path: Assets/Scene/Video 1.unity
+    guid: 610be5271c6eb084192c713f6c6a15fd
+  - enabled: 1
+    path: Assets/Scene/Copy_Content.unity
+    guid: 9f6b63f9e24f4b5438af9d05b9fd9bef
+  - enabled: 1
+    path: Assets/Scene/KnowDNA.unity
+    guid: 7b7d20e1a25dcc04695f07829b3ee1ce
+  - enabled: 1
+    path: Assets/Scene/DNAShapeDiscuss.unity
+    guid: d31d107ee08311c43b52abda9ba1511b
+  - enabled: 1
+    path: Assets/Scene/KnowClip.unity
+    guid: 60701355e1a97aa45a367b11df986caa
+  - enabled: 1
+    path: Assets/Scene/Reknow.unity
+    guid: ac31503186ec87444824300967d246d2

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8daa02422b2800e4da060e3979e9ee04
+timeCreated: 1564483614
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STFangsong
+  fontNames:
+  - STFangsong
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
